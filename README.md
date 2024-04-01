@@ -1,5 +1,9 @@
 # aprioriTesla
 Usando el algoritmo apriori para predecir comportamientos en coches
+Requisitos:
+  numpy
+  pandas
+  mlxtend
 
 DEFINICIÓN DE LOS DATOS
 
